@@ -1,4 +1,4 @@
-# RSVP-Movies-Solution-SQL-Data-analysis
+**# RSVP-Movies-Solution-SQL-Data-analysis**
 Data-driven insights for global movie release. SQL-based analysis of recent movie data."
 
 RSVP Movies, a renowned Indian film production company, plans to release a movie for a global audience in 2022. To make informed decisions, they seek data-driven insights from their past three years of movie data.
