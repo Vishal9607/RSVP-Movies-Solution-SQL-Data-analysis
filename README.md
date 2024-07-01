@@ -33,6 +33,6 @@ ________________________________________
 	
 3.	Use Aliases: Avoid generic variable names; use meaningful aliases.
 	
-4.	Optimize Code: Ensure your SQL queries are efficient and optimized.\
+4.	Optimize Code: Ensure your SQL queries are efficient and optimized.
 	
 5.	Checkpoints: Utilize checkpoints in the script to verify your results.
